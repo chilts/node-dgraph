@@ -1,5 +1,5 @@
 {
-  "name": "dgraph",
+  "name": "node-dgraph",
   "version": "0.1.0",
   "description": "Dgraph client for Node.js.",
   "main": "index.js",
